@@ -1,0 +1,13 @@
+# 上游汉化包（由使用者自行下载，不入库）
+patch/
+*.zip
+
+# 生成物与备份（含 Raycast 原始资源，禁止入库）
+build/
+
+# 依赖与缓存
+node_modules/
+__pycache__/
+*.pyc
+
+.DS_Store

@@ -1,0 +1,16 @@
+{
+  "name": "raycast-zh-port",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "把社区 Raycast 汉化包的译文移植到当前安装的 Raycast 版本（acorn 精确字面量对齐）",
+  "license": "MIT",
+  "author": "Inceptzws and DeepSeek (AI assistant)",
+  "contributors": [
+    "Inceptzws",
+    "DeepSeek (AI assistant, deepseek-flash)"
+  ],
+  "dependencies": {
+    "acorn": "^8.18.0"
+  }
+}
